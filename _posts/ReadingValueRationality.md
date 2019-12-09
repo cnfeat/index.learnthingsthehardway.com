@@ -2,7 +2,7 @@
 layout: post
 title: 读书学习的工具理性与价值理性
 tags: 
-- maillist
+- index
 status: publish
 type: post
 published: true
@@ -23,18 +23,5 @@ published: true
 
 - 2017-09-03 读《青年王阳明》有感
 
---
 
-祝学习进步
-
-陈素封 谨上
-
-本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成
-
-----
-
-- 邮件订阅：[TinyLetter](http://tinyletter.com/cnfeat) 
-- 查看以往：[邮件存档](http://tinyletter.com/cnfeat/archive)
-- 通讯博客：[卡片创作通讯](http://mesule.com) 
-- 个人博客：[读立写生](http://cnfeat.com)
 
