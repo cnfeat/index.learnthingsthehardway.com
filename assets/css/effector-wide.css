@@ -389,9 +389,9 @@ text-shadow: 0 1px 0 #fff;
     visibility: hidden;
 }
 .sitename {
-    font-size: 25px;
+    font-size: 30px;
    /* font-weight: bold;*/
-    color:  #001246;
+    color:  #555;
     text-align:right;
 }
 .wrapper  {
