@@ -1,0 +1,12 @@
+markdown: kramdown
+permalink: /:year/:month/:title 
+title: 笨方法
+url: http://www.learnthingsthehardway.com/
+subscribe: http://www.learnthingsthehardway.com/feed
+exclude: [ README.md, newpost.rb ]
+domain: http://www.learnthingsthehardway.com/
+author: CNFeat
+email: cnfeat@gmail.com
+twitterID: feat
+disqusShortname: cnfeat
+safe: true

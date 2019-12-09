@@ -1,2 +1,3 @@
-# index.learnthingsthehardway.com
-笨方法官网：文章索引
+## 简介
+
+笨方法 官网文章索引
