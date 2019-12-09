@@ -108,9 +108,9 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 h1 {
     line-height: 60px;
     color:	#000000;
-    font-size: 21px;
+    font-size: 25px;
     font-weight: bold;
-    line-height: 150px;
+    line-height: 120px;
 }
 h1 small {
     font-size: 20px;;
