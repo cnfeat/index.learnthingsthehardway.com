@@ -2,7 +2,7 @@
 layout: post
 title: 王阳明：如何生成智者心理表征？
 tags: 
-- maillist
+- index
 status: publish
 type: post
 published: true
