@@ -8,8 +8,9 @@ type: post
 published: true
 ---
 
-PPT 下载地址：http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pptx
+- [PDF 下载地址](http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pdf)
+- [PPT 下载地址](http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pptx)
 
-<center><embed src="http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pdf" width="850"></center>
+<center><embed src="http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pdf" width="80%" height="600"></center>
 
 
