@@ -1,16 +1,13 @@
---- 
+---
 layout: post
 title: 笨方法成事文化集
-tags: 
+tags:
 - index
 status: publish
 type: post
 published: true
 ---
 
-- [PDF 下载地址](http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pdf)
-- [PPT 下载地址](http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pptx)
+95页原创笨方法成事文化集
 
-<center><embed src="http://www.learnthingsthehardway.com/assets/CultureSlide/Curiousness&Effort.pdf" width="80%" height="600"></center>
-
-
+购买地址：https://mianbaoduo.com/o/works/66106
