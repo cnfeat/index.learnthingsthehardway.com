@@ -8,6 +8,9 @@ type: post
 published: true
 ---
 
-95页原创笨方法成事文化集
+95页原创笨方法文化集 PPT
 
-购买地址：https://mianbaoduo.com/o/works/66106
+请在 笨方法实验室 领取
+https://www.yuque.com/hardwaylab
+
+
